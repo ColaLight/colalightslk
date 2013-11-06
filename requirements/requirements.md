@@ -25,6 +25,7 @@ Optional ability to charge a phone through the USB socket, this is achieved via 
 | Controls	| LED/OFF/PHONE	| Switch DPDT next to USB	|
 | Interface	| USB connector	| Power/charge/discharge	|
 | Battery	| 700+mAhr 'AA'	| 700+ mAhr with internal PTC	|
+| Protection	| IP35 		| Dust and water resistant 	|
 
 ### Additional considerations
 - Over-charging and temperature

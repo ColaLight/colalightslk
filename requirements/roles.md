@@ -19,6 +19,7 @@ Responsible for delivering all electronics and firmware for the ColaLightSLK pro
 - Knowledge or experiences building efficient battery powered devices and low power techniques
 - Experience with ARM micro controllers especially Cortex M0
 - Environmental oriented project experience and awareness
+- Desire to work with NGOs, charities in third world settings
 - Indian dialect/language abilities
 
 ## Product Designer
@@ -34,7 +35,8 @@ Responsible for the final product design and appearance
 - Materials: Using recycled materials and low carbon choices
 
 ### Bonus skills:
-- Knowledge or experiences building efficient battery powered devices and low power techniques
+- Knowledge or experiences building practical outdoor electronics devices
 - Experience with 3D printers like RepRap
 - Environmental oriented project experience and awareness
+- Desire to work with NGOs, charities in third world settings
 - Indian dialect/language abilities
