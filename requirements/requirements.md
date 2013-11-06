@@ -1,6 +1,7 @@
 # ColaLight Requirements
 
-## Electronics
+## 
+Electronics
 The electronics design is responsible for the optimisation and charging of a small AA battery as well as the efficient illumination provided by a white LEDs.
 
 ### MPPT
@@ -33,3 +34,4 @@ Optional ability to charge a phone through the USB socket, this is achieved via 
 - Battery internal protection
 - Charge/Discharge rates
 - Availability of all parts for replacement
+
