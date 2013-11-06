@@ -17,6 +17,8 @@ The led driver will need to efficiently step down the voltage and control the cu
 Optional ability to charge a phone through the USB socket, this is achieved via a switch and a small boost converter to step up voltage from the battery to 5v.
 
 ### Specifications
+| Feature	| Requirement 	| Description 			|
+|---------------|---------------|-------------------------------|
 | Light Output 	| 20+ Lumens	| 0.1 square metre @ 25+ Lux	|
 | Run time 	| 8+ hours	| @ specified light output	|
 | Controls	| LED/OFF/PHONE	| Switch DPDT next to USB	|
