@@ -2,21 +2,22 @@
 
 ## Electronics and Firmware Engineer
 (Postgraduate or final year project)
-Responsible for delivering all electronics and firmware for teh ColaLightSLK project.
 
-### The following skills are desireable
-Electronics - basic switchmode design, buck,boost and variant topologies
+Responsible for delivering all electronics and firmware for the ColaLightSLK project.
+
+### The following skills are desirable
+Electronics - basic switch mode design, buck,boost and variant topologies
 Electronics - Current, voltage and temperature sensing using ADC
-Electronics - Current and voltage limiting, undervoltage protection
+Electronics - Current and voltage limiting, under voltage protection
 Electronics - Efficiency trial and testing to optimise application of above
 Electronics - Basic PCB Layout and schematic skills (Eagle Cad)
-Firmware - Familiarity designing embedded code on limited resource microcontrollers
-FirmWare - Code will be written in C using GCC,Make and GNU croos toolchain
+Firmware - Familiarity designing embedded code on limited resource micro controllers
+Firmware - Code will be written in C using GCC,Make and GNU cross tool chain
 
 ### Bonus skills:
 Knowledge or experiences building efficient battery powered devices and low power techniques
-Experience with ARM microcontrollers especially Cortex M0
+Experience with ARM micro controller especially Cortex M0
 Environmental oriented project experience and awareness
-Indian dielect/speaking abilities
+Indian dialect/speaking abilities
 
 
