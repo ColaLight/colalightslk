@@ -13,12 +13,28 @@ Responsible for delivering all electronics and firmware for the ColaLightSLK pro
 - Electronics: Basic PCB Layout and schematic skills (Eagle Cad)
 - Electronics: Thermal efficiency, minimise stress, reduce loss and extend MTBF
 - Firmware: Familiarity designing embedded code on limited resource micro controllers
-- Firmware: Code will be written in C using GCC,Make and GNU cross tool chain
+- Firmware: Code will be written in C using GCC, Make and GNU cross tool chain
 
 ### Bonus skills:
 - Knowledge or experiences building efficient battery powered devices and low power techniques
-- Experience with ARM micro controller especially Cortex M0
+- Experience with ARM micro controllers especially Cortex M0
 - Environmental oriented project experience and awareness
 - Indian dialect/language abilities
 
+## Product Designer
+(Post graduate or final year project)
 
+Responsible for the final product design and appearance
+
+### The following skills are desirable
+- Design: Preferably OpenScad
+- Design: Knowledge of 3D printed plastics and processes
+- Design: Ability to design enclosures to hold electronics and batteries
+- Design: Visual aesthetics combined with rugged outdoor field usage
+- Materials: Using recycled materials and low carbon choices
+
+### Bonus skills:
+- Knowledge or experiences building efficient battery powered devices and low power techniques
+- Experience with 3D printers like RepRap
+- Environmental oriented project experience and awareness
+- Indian dialect/language abilities
