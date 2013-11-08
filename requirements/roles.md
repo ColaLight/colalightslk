@@ -15,7 +15,7 @@ Responsible for delivering all electronics and firmware for the ColaLightSLK pro
 - Firmware: Familiarity designing embedded code on limited resource micro controllers
 - Firmware: Code will be written in C using GCC, Make and GNU cross tool chain
 
-### Bonus skills:
+### Bonus Characteristics:
 - Knowledge or experiences building efficient battery powered devices and low power techniques
 - Experience with ARM micro controllers especially Cortex M0
 - Environmental oriented project experience and awareness
@@ -34,7 +34,7 @@ Responsible for the final product design and appearance
 - Design: Visual aesthetics combined with rugged outdoor field usage
 - Materials: Using recycled materials and low carbon choices
 
-### Bonus skills:
+### Bonus Characteristics:
 - Knowledge or experiences building practical outdoor electronics devices
 - Experience with 3D printers like RepRap
 - Environmental oriented project experience and awareness
