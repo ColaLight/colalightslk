@@ -1,9 +1,9 @@
 # ColaLightSLK intern roles
 
 ## Power Electronics Engineer
-(Postgraduate or final year project 1 or 2 roles DOE)
+(Postgraduate or final year project)
 
-Responsible for delivering all electronics and firmware for the ColaLightSLK project.
+Responsible for delivering all electronics for the ColaLightSLK project.
 
 ### The following skills are desirable
 - Electronics: basic switch mode design, buck, boost and variant topologies
@@ -22,9 +22,9 @@ Responsible for delivering all electronics and firmware for the ColaLightSLK pro
 - Indian dialect/language abilities
 
 ## Electronics Firmware Engineer
-(Postgraduate or final year project 1 or 2 roles DOE)
+(Postgraduate or final year project)
 
-Responsible for delivering all electronics and firmware for the ColaLightSLK project.
+Responsible for delivering all firmware for the ColaLightSLK project.
 
 ### The following skills are desirable
 - Electronics: Current, voltage and temperature sensing using ADC
@@ -57,6 +57,7 @@ Responsible for the final product design and appearance
 ### Bonus Characteristics:
 - Knowledge or experiences building practical outdoor electronics devices
 - Experience with 3D printers like RepRap
+- Graphic design and or branding awareness and skills
 - Environmental oriented project experience and awareness
 - Desire to work with NGOs, charities in third world settings
 - Indian dialect/language abilities
