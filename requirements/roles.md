@@ -16,7 +16,7 @@ Responsible for delivering all electronics for the ColaLightSLK project.
 
 ### Bonus Characteristics:
 - Knowledge or experiences building efficient battery powered devices and low power techniques
-- Experience with ARM micro controllers especially Cortex M0
+- Experience with low cost micro-controllers
 - Environmental oriented project experience and awareness
 - Desire to work with NGOs, charities in third world settings
 - Indian dialect/language abilities
@@ -37,7 +37,7 @@ Responsible for delivering all firmware for the ColaLightSLK project.
 
 ### Bonus Characteristics:
 - Knowledge or experiences of reliable Low level firmware coding and testing
-- Experience with ARM micro controllers especially Cortex M0
+- Experience with low cost micro-controllers
 - Environmental oriented project experience and awareness
 - Desire to work with NGOs, charities in third world settings
 - Indian dialect/language abilities
