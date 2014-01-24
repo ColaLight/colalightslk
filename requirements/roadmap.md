@@ -1,6 +1,6 @@
 # ColaLight-SLK product development roadmap
 
-## Stage 0 Requirements, modular test/Lab work and design
+## Stage 0 Requirements, modular test/lab work and design
 
 ### Requirements
 #### Lumen Maintenance : >70% of original output after 2000 hours
@@ -51,7 +51,7 @@
 #### Test Physical features, centre of gravity and orientation
 #### Test functional user operation, charging access and practicality
 #### Judge appearance and achievement of features
-#### List any review weaknesses and document design changes
+#### Review and list weaknesses and document design changes
 
 ### Ongoing lab testing
 #### Evaluate panel candidates for stage 2
@@ -101,7 +101,7 @@
 #### Third party Global Lighting Standards test
 #### Judge appearance and achievement of second stage design changes
 #### Review Third part test results, implement fixes, cycle testing
-#### List any review weaknesses and document design changes
+#### Review and list weaknesses and document design changes
 
 ### Manufacture preparation
 #### Cycle CAD work to incorporate new design changes
@@ -127,7 +127,7 @@
 #### Review time and motion analysis, cost and project
 #### Examine export/import packaging costs and requirements
 #### Cycle and design changes to optimise manufacturing and cost reduction
-#### Document BOM, Manufacturing process, Quality tests an packaging
+#### Document BOM, Manufacturing process, Quality tests and packaging
 
 
 
