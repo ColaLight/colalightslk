@@ -21,8 +21,8 @@
 #### We will need to punch of drill the screw cap to allow the mezzanine umbilical passage
 
 ## Aux operations required
-### Button control for lighting modes, iterates through 4 settings off on low, low up , low down, full
-### Posible MPPT integration
-### Current integrating and monitoring
-### Output charger (USB phone socket)
+#### Button control for lighting modes, iterates through 4 settings off on low, low up , low down, full
+#### Posible MPPT integration
+#### Current integrating and monitoring
+#### Output charger (USB phone socket)
 
