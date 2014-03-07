@@ -19,3 +19,10 @@
 #### Water proofing with USB may be a real problem, explore solutions
 #### It's rather fiddly assembling the various parts, lets focus on making this simpler
 #### We will need to punch of drill the screw cap to allow the mezzanine umbilical passage
+
+## Aux operations required
+### Button control for lighting modes, iterates through 4 settings off on low, low up , low down, full
+### Posible MPPT integration
+### Current integrating and monitoring
+### Output charger (USB phone socket)
+
