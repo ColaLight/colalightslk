@@ -11,11 +11,11 @@
 #### Consider dual purpose controller/up lighter PCB to solve double sided issues
 
 ## Mechanical
-### Reflective silver card inserts work well but we should source material with high reflectivity
-### Cutting the reflectors is difficult using compass and scissors, we need to find a better way (or manufacturer)
-### Diffusion results are good but I wonder what luminance we may be dropping, this needs quantifying and exploring further
-### We need to add a battery compartment/adaptor
-### We need to integrate USB openings
-### Water proofing with USB may be a real problem, explore solutions
-### It's rather fiddly assembling the various parts, lets focus on making this simpler
-### We will need to punch of drill the screw cap to allow the mezzanine umbilical passage
+#### Reflective silver card inserts work well but we should source material with high reflectivity
+#### Cutting the reflectors is difficult using compass and scissors, we need to find a better way (or manufacturer)
+#### Diffusion results are good but I wonder what luminance we may be dropping, this needs quantifying and exploring further
+#### We need to add a battery compartment/adaptor
+#### We need to integrate USB openings
+#### Water proofing with USB may be a real problem, explore solutions
+#### It's rather fiddly assembling the various parts, lets focus on making this simpler
+#### We will need to punch of drill the screw cap to allow the mezzanine umbilical passage
